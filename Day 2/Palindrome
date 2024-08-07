@@ -1,0 +1,10 @@
+num=int(input("enter the number:"))
+m=int(str(num)[::-1])
+if num==m:
+    print("palindrome")
+else:
+    print("not palindrome")
+
+output:
+enter the number:1221
+palindrome
