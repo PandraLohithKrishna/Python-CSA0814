@@ -4,3 +4,7 @@ count = Counter(array)
 for item, cnt in count.items():
     if cnt > 1:
         print(f"Element {item} appears {cnt} times")
+
+output:
+Element 2 appears 2 times
+Element 3 appears 2 times
