@@ -7,3 +7,7 @@ if sum1 == n:
     print("The number is a perfect number")
 else:
     print("The number is not a perfect number")
+
+output:
+Enter a number: 28
+The number is a perfect number
