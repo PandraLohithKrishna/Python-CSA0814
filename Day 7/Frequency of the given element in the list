@@ -1,0 +1,6 @@
+def find_frequency(lst,element)
+return lst.count(element)
+my_list = [1, 2, 3, 4, 2, 2, 5, 3, 6, 2]
+element_to_find = 2
+frequency = find_frequency(my_list, element_to_find)
+print(f"The frequency of{element_to_find}in the list is{frequency}")
